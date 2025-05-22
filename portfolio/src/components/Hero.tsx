@@ -100,7 +100,7 @@ const Hero: React.FC = () => {
                   }}
                 />
                 <Avatar
-                  src="/profile.jpg.png"
+                  src="/profile.png"
                   alt="Abhishek Kumar"
                   sx={{
                     width: { xs: 140, md: 180 },
